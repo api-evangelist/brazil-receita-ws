@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.receitaws.com.br/
 common:
+  - type: DomainSecurity
+    url: security/brazil-receita-ws-domain-security.yml
   - type: Website
     url: https://www.receitaws.com.br/
   - type: PublicAPIsListing

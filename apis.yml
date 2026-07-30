@@ -1,4 +1,16 @@
 aid: brazil-receita-ws
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/brazil-receita-ws.png
 name: Brazil Receita WS
 description: "Consult companies by CNPJ for Brazilian companies"
 url: https://www.receitaws.com.br/

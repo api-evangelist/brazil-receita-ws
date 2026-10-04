@@ -39,7 +39,6 @@ apis:
   - name: Brazil Receita WS
     description: "Consult companies by CNPJ for Brazilian companies"
     humanURL: https://www.receitaws.com.br/
-    baseURL: https://www.receitaws.com.br/
     tags:
       - Government
     properties:
